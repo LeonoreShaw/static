@@ -13,6 +13,10 @@ http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 https://live.goodiptv.club/api/sxg.php?id=hxjc-4k_8000
 #EXTINF:-1,tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/leonoreshaw/IPTV/main/img/hs.png" group-title="4K",华数-4K
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="Global️",BBC World News
+http://23.237.104.26:8080/BBC_NEWS/playlist.m3u8
+#EXTINF:-1,tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="Global️",Bloomberg TV-4K
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,tvg-id="CCTV16-4K" tvg-name="CCTV16-4K" tvg-logo="https://epg.112114.eu.org/logo/CCTV16.png" group-title="4K",CCTV16-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K",CCTV4K
@@ -295,7 +299,3 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000180630/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="爱院线" tvg-name="爱院线" tvg-logo="https://epg.112114.eu.org/logo/爱院线.png" group-title="数字",iHOT爱院线
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="Global️",BBC World News
-http://23.237.104.26:8080/BBC_NEWS/playlist.m3u8
-#EXTINF:-1,tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="Global️",Bloomberg TV-4K
-https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
