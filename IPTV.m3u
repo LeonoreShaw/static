@@ -1,23 +1,23 @@
 #EXTM3U url-tvg="https://epg.pw/xmltv.html?lang=zh-hant,https://epg.112114.xyz/pp.xml,http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1,tvg-id="8K" tvg-name="8K"  group-title="8K",8K
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-#EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.112114.eu.org/logo/CCTV8K.png" group-title="8K",CCTV-8K 4K
+#EXTINF:-1,tvg-id="CCTV-8K 4K" tvg-name="CCTV-8K 4K" tvg-logo="https://epg.112114.eu.org/logo/CCTV8K.png" group-title="8K",CCTV-8K 4K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-#EXTINF:-1,tvg-id="Clarity" tvg-name="Clarity" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/leonoreshaw/IPTV/main/img/c.png" group-title="4K",Clarity 4K
+#EXTINF:-1,tvg-id="Clarity 4K" tvg-name="Clarity 4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/leonoreshaw/IPTV/main/img/c.png" group-title="4K",Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1,tvg-id="LoveNature" tvg-name="LoveNature" tvg-logo="http://n.ysyz.top:99/buyaolian/LoveNature.png" group-title="4K",Love Nature 4K
+#EXTINF:-1,tvg-id="Love Nature 4K" tvg-name="Love Nature 4K" tvg-logo="http://n.ysyz.top:99/buyaolian/LoveNature.png" group-title="4K",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1,tvg-id="Fashion" tvg-name="Fashion-4K" tvg-logo="https://s1.ax1x.com/2022/04/14/L1GDP0.png" group-title="4K",Fashion 4K
+#EXTINF:-1,tvg-id="Fashion" tvg-name="Fashion 4K" tvg-logo="https://s1.ax1x.com/2022/04/14/L1GDP0.png" group-title="4K",Fashion 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1,tvg-id="苏州" tvg-name="苏州-4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png" group-title="4K",苏州 4K
+#EXTINF:-1,tvg-id="苏州" tvg-name="苏州 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png" group-title="4K",苏州 4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场-4K" tvg-logo="http://n.ysyz.top:99/buyaolian/hxjc4k.png" group-title="4K",欢笑剧场 4K
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场 4K" tvg-logo="http://n.ysyz.top:99/buyaolian/hxjc4k.png" group-title="4K",欢笑剧场 4K
 https://live.goodiptv.club/api/sxg.php?id=hxjc-4k_8000
-#EXTINF:-1,tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/leonoreshaw/IPTV/main/img/hs.png" group-title="4K",华数 4K
+#EXTINF:-1,tvg-id="华数 4K" tvg-name="华数 4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/leonoreshaw/IPTV/main/img/hs.png" group-title="4K",华数 4K
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" group-title="4K",爱上 4K
+#EXTINF:-1,tvg-id="爱上 4K" tvg-name="爱上 4K" group-title="4K",爱上 4K
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1,tvg-id="4K修复" tvg-name="4K修复" group-title="4K",4K 修复
+#EXTINF:-1,tvg-id="4K 修复" tvg-name="4K 修复" group-title="4K",4K 修复
 http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1,tvg-id="纯享 4K「1」" tvg-name="纯享 4K「1」" group-title="4K",纯享 4K「1」
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
