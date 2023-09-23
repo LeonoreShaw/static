@@ -24,6 +24,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott
 #EXTINF:-1,tvg-id="纯享 4K「2」" tvg-name="纯享 4K「2」" group-title="4K",纯享 4K「2」
 http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 #EXTINF:-1,tvg-id="纯享 4K「3」" tvg-name="纯享 4K「3」" group-title="4K",纯享 4K「3」
+http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1,tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="Global️",BBC World News
 http://23.237.104.26:8080/BBC_NEWS/playlist.m3u8
 #EXTINF:-1,tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="Global️",Bloomberg TV 4K
