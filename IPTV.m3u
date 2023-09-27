@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.112114.xyz/pp.xml,http://epg.51zmt.top:8000/e.xml"
+#EXTM3U url-tvg="https://epg.112114.xyz/pp.xml"
 #EXTINF:-1,tvg-id="8K" tvg-name="8K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/leonoreshaw/IPTV/main/img/8K.png" group-title="8K",8K
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1,tvg-id="CCTV-8K 4K" tvg-name="CCTV-8K 4K" tvg-logo="https://epg.112114.eu.org/logo/CCTV8K.png" group-title="8K",CCTV-8K 4K
