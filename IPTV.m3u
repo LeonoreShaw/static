@@ -19,7 +19,7 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1,tvg-id="4K" tvg-name="4K 修复" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/leonoreshaw/IPTV/main/img/4K.png" group-title="4K",4K 修复
 http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-#EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享 4K「1」" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/cx4k.png" group-title="4K",纯享 4K「1」
+#EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/cx4k.png" group-title="4K",纯享 4K
 http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV4K
 http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
