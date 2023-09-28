@@ -31,13 +31,13 @@ https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/INBA5100021WP.m3u8
 #EXTINF:-1,tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/leonoreshaw/IPTV/main/img/RedBull.png" group-title="Global️",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1,tvg-id="samsung-CABC2300009KD" tvg-id="CABC2300009KD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300009KD_20230726T004516SQUARE.png_20230726004517.png" group-title="Global",CBC News Explore
+#EXTINF:-1,tvg-id="CBC News Explore" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300009KD_20230726T004516SQUARE.png_20230726004517.png" group-title="Global",CBC News Explore
 https://i.mjh.nz/SamsungTVPlus/CABC2300009KD.m3u8
-#EXTINF:-1,tvg-id="samsung-GBBB1500004LG" tvg-id="GBBB1500004LG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1500004LG_20230913T031533SQUARE.png_20230913031533.png" group-title="Global️",NBC News NOW
+#EXTINF:-1,tvg-id="NBC News NOW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1500004LG_20230913T031533SQUARE.png_20230913031533.png" group-title="Global️",NBC News NOW
 https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
-#EXTINF:-1,tvg-id="samsung-GBBD1900008O3" tvg-id="GBBD1900008O3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900008O3_20230614T010144SQUARE.png_20230614010144.png" group-title="Global️",CNN FAST
+#EXTINF:-1,tvg-id="CNN FAST" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900008O3_20230614T010144SQUARE.png_20230614010144.png" group-title="Global️",CNN FAST
 https://i.mjh.nz/SamsungTVPlus/GBBD1900008O3.m3u8
-#EXTINF:-1,tvg-id="samsung-INBD1300022TS" tvg-id="INBD1300022TS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300022TS_20230913T014217SQUARE.png_20230913014218.png" group-title="Global️",CNN
+#EXTINF:-1,tvg-id="CNN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300022TS_20230913T014217SQUARE.png_20230913014218.png" group-title="Global️",CNN
 https://i.mjh.nz/SamsungTVPlus/INBD1300022TS.m3u8
 #EXTINF:-1,tvg-id="GB News" tvg-name="GB News" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="Global️",GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
