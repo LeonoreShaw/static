@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" x-tvg-url="http://epg.it999.ru/epg.xml.gz"
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://live.fanmingming.com/e.xml,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 #EXTINF:-1,tvg-id="8K" tvg-name="8K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/leonoreshaw/IPTV/main/img/8K.png" group-title="8K",8K
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV-8K 4K" tvg-logo="https://epg.112114.eu.org/logo/CCTV8K.png" group-title="8K",CCTV-8K 4K
@@ -27,17 +27,17 @@ http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/3/224/32212
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,tvg-id="BloombergTV" tvg-name="Bloomberg TV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="Global️",Bloomberg TV
 https://i.mjh.nz/SamsungTVPlus/INBA5100021WP.m3u8
-#EXTINF:-1,tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/leonoreshaw/IPTV/main/img/RedBull.png" group-title="Global️",Red Bull TV
+#EXTINF:-1,tvg-id="RedBullTV" tvg-name="Red Bull TV" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/leonoreshaw/IPTV/main/img/RedBull.png" group-title="Global️",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1,tvg-id="CBC News Explore" tvg-name="CBC News Explore" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300009KD_20230726T004516SQUARE.png_20230726004517.png" group-title="Global",CBC News Explore
+#EXTINF:-1,tvg-id="CBCNewsExplore" tvg-name="CBC News Explore" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300009KD_20230726T004516SQUARE.png_20230726004517.png" group-title="Global",CBC News Explore
 https://i.mjh.nz/SamsungTVPlus/CABC2300009KD.m3u8
 #EXTINF:-1,tvg-id="NBC News NOW" tvg-name="NBC News NOW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1500004LG_20230913T031533SQUARE.png_20230913031533.png" group-title="Global️",NBC News NOW
 https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
-#EXTINF:-1,tvg-id="CNN FAST" tvg-name="CNN FAST" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900008O3_20230614T010144SQUARE.png_20230614010144.png" group-title="Global️",CNN FAST
+#EXTINF:-1,tvg-id="CNN" tvg-name="CNN FAST" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900008O3_20230614T010144SQUARE.png_20230614010144.png" group-title="Global️",CNN FAST
 https://i.mjh.nz/SamsungTVPlus/GBBD1900008O3.m3u8
 #EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300022TS_20230913T014217SQUARE.png_20230913014218.png" group-title="Global️",CNN
 https://i.mjh.nz/SamsungTVPlus/INBD1300022TS.m3u8
-#EXTINF:-1,tvg-id="GB News" tvg-name="GB News" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="Global️",GB News
+#EXTINF:-1,tvg-id="GBNews" tvg-name="GB News" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="Global️",GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="Global️",BBC World News
 http://23.237.104.26:8080/BBC_NEWS/playlist.m3u8
@@ -47,7 +47,7 @@ http://159.75.85.63:5679/cctv4k.php
 https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV-16 4K25P SDR" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K",CCTV-16 4K25P SDR
 https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
-#EXTINF:-1,tvg-id="CCTV-16" tvg-name="CCTV-16 4K" tvg-logo="https://epg.112114.eu.org/logo/CCTV16.png" group-title="4K",CCTV-16 4K
+#EXTINF:-1,tvg-id="CCTV-16" tvg-name="CCTV-16 4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K",CCTV-16 4K
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5 12M" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="4K",CCTV-5 12M
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
@@ -83,7 +83,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw259647455_-1559913959/ot
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw340147088_1594094424/ott.mobaibox.com/PLTV/3/224/3221228292/index.m3u8?icpid=3&RTS=1668595134&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV-15 音乐" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15 音乐
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw434828587_188325560/ott.mobaibox.com/PLTV/3/224/3221228404/index.m3u8?icpid=3&RTS=1668595229&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV-16 奥林匹克" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 4K
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV-16 奥林匹克" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 4K
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV-17 农业农村" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw483903016_-67353299/ott.mobaibox.com/PLTV/3/224/3221228407/index.m3u8?icpid=3&RTS=1668595278&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
