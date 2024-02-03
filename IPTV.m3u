@@ -27,7 +27,7 @@ https://i.mjh.nz/SamsungTVPlus/INBD1300022TS.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
 #EXTINF:-1,tvg-id="CBCNewsExplore" tvg-name="CBC News Explore" tvg-logo="https://static.xxiao.org/TV/cbcnews.png" group-title="Global",CBC News Explore
 https://i.mjh.nz/SamsungTVPlus/CABC2300009KD.m3u8
-#EXTINF:-1,tvg-id="GB News" tvg-name="GB News" tvg-logo="https://static.xxiao.org/TV/GBNews.png" group-title="Global️",GB News
+#EXTINF:-1,tvg-id="GB News" tvg-name="GB News" tvg-logo="https://static.xxiao.org/TV/gbnews.png" group-title="Global️",GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://static.xxiao.org/TV/北京纪实.png" group-title="8K",北京纪实 8K
 http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
