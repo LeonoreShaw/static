@@ -43,22 +43,6 @@ http://epg.112114.xyz/douyu/9249162
 http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://static.xxiao.org/TV/CCTV16.png" group-title="4K",CCTV16 4K 25M2160
 http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
-#EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://static.xxiao.org/TV/CCTV8K.png" group-title="8K",CCTV8K-HLG-50FPS-AV3A-臻彩视听
-http://1.14.131.61:8654/av3a8k50fps.php
-#EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://static.xxiao.org/TV/CCTV8K.png" group-title="8K",移动8K-1-150Mbps-50FPS-HLG-HEVC
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233652/index.m3u8
-#EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://static.xxiao.org/TV/CCTV8K.png" group-title="8K",移动8K-2-150Mbps-50FPS-HLG-HEVC
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235532/index.m3u8
-#EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://static.xxiao.org/TV/CCTV8K.png" group-title="8K",移动8K-3-150Mbps-50FPS-HLG-AVS3
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235537/index.m3u8
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://static.xxiao.org/TV/CCTV4K.png" group-title="4K",CCTV4K-HLG-36Mbps-50FPS-GuDou满血
-http://1.14.131.61:5678/gd4k.php
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://static.xxiao.org/TV/CCTV4K.png" group-title="4K",CCTV4K-HLG-36Mbps-50FPS-移动满血
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233679/index.m3u8
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://static.xxiao.org/TV/CCTV4K.png" group-title="4K",CCTV4K-HLG-36Mbps-50FPS-满血臻彩视听
-http://1.14.131.61:8765/av3a4k50fps.php
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://static.xxiao.org/TV/CCTV4K.png" group-title="4K",CCTV4K-HLG-36Mbps-25FPS
-http://1.14.131.61:5828/cctv4k.php
 #EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://static.xxiao.org/TV/CCTV8K.png" group-title="8K",CCTV8K 4K
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://static.xxiao.org/TV/CCTV4K.png" group-title="4K",CCTV4K
