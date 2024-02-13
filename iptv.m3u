@@ -5,7 +5,7 @@ https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1,tvg-id="RedBullTV" tvg-name="RedBullTV" tvg-logo="https://static.xxiao.org/TV/RedBull.png" group-title="Global️",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1,tvg-id="CNN FAST" tvg-name="CNN FAST" tvg-logo="https://static.xxiao.org/TV/cnnfast.png" group-title="Global️",CNN FAST
+#EXTINF:-1,tvg-id="CNN" tvg-name="CNN FAST" tvg-logo="https://static.xxiao.org/TV/cnnfast.png" group-title="Global️",CNN FAST
 https://i.mjh.nz/SamsungTVPlus/GBBD1900008O3.m3u8
 #EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://static.xxiao.org/TV/cnn.png" group-title="Global️",CNN
 https://i.mjh.nz/SamsungTVPlus/INBD1300022TS.m3u8
