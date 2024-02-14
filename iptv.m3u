@@ -9,7 +9,7 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBD1900008O3.m3u8
 #EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://static.xxiao.org/TV/cnn.png" group-title="Global️",CNN
 https://i.mjh.nz/SamsungTVPlus/INBD1300022TS.m3u8
-#EXTINF:-1,tvg-id="NBC News NOW" tvg-name="NBC News NOW" tvg-logo="https://static.xxiao.org/TV/nbcnewsnow.png" group-title="Global️",NBC News NOW
+#EXTINF:-1,tvg-id="NBCNewsNOW" tvg-name="NBCNewsNOW" tvg-logo="https://static.xxiao.org/TV/CNBC.png" group-title="Global️",NBC News NOW
 https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
 #EXTINF:-1,tvg-id="CBCNewsExplore" tvg-name="CBC News Explore" tvg-logo="https://static.xxiao.org/TV/cbcnews.png" group-title="Global",CBC News Explore
 https://i.mjh.nz/SamsungTVPlus/CABC2300009KD.m3u8
