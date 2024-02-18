@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://live.fanmingming.com/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" x-tvg-url="https://gh.xxiao.org/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml,https://gh.xxiao.org/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz,http://epg.it999.ru/epg.xml.gz"  catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" 
-#EXTINF:-1,tvg-id="Clarity" tvg-name="Clarity" tvg-logo="https://static.xxiao.org/TV/clarity.png" group-title="4K",Clarity 4K
-https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 #EXTINF:-1,tvg-id="Fashiontv" tvg-name="Fashion" tvg-logo="https://static.xxiao.org/TV/fashiontv.png" group-title="4K",Fashion TV 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1,tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="https://static.xxiao.org/TV/bloomberg.png" group-title="4K",BloombergTV 4K
