@@ -199,7 +199,7 @@ https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1,tvg-id="AlJazeera" tvg-name="AlJazeera" tvg-logo="https://static.xxiao.org/TV/AlJazeera.png" group-title="Global",AlJazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1,tvg-id="RTNews" tvg-name="RT News" tvg-logo="https://static.xxiao.org/TV/RT_News.png" group-title="Global",RT News
+#EXTINF:-1,tvg-id="RTNews" tvg-name="RT News" tvg-logo="https://static.xxiao.org/TV/RTNews.png" group-title="Global",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1,tvg-id="精彩综艺" tvg-name="精彩综艺" tvg-logo="https://static.xxiao.org/TV/精彩综艺.png" group-title="影视",精彩综艺
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
