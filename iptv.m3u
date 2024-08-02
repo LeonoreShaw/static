@@ -7,19 +7,19 @@ http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1,tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-#EXTINF:-1,tvg-id="明星大片" tvg-name="明星大片" tvg-logo="https://static.xxiao.org/TV/NEWTV明星大片.png" group-title="数字",NewTv明星大片
+#EXTINF:-1,tvg-id="NewTv明星大片" tvg-name="NewTv明星大片" tvg-logo="https://static.xxiao.org/TV/NEWTV明星大片.png" group-title="数字",NewTv明星大片
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://static.xxiao.org/TV/NEWTV黑莓电影.png" group-title="数字",NewTv黑莓电影
+#EXTINF:-1,tvg-id="NewTv黑莓电影" tvg-name="NewTv黑莓电影" tvg-logo="https://static.xxiao.org/TV/NEWTV黑莓电影.png" group-title="数字",NewTv黑莓电影
 http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1,tvg-id="超级电影" tvg-name="超级电影" tvg-logo="https://static.xxiao.org/TV/NEWTV超级电影.png" group-title="数字",NewTv超级电影
+#EXTINF:-1,tvg-id="NewTv超级电影" tvg-name="NewTv超级电影" tvg-logo="https://static.xxiao.org/TV/NEWTV超级电影.png" group-title="数字",NewTv超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1,tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://static.xxiao.org/TV/NEWTV动作电影.png" group-title="数字",NewTv动作电影
+#EXTINF:-1,tvg-id="NewTv动作电影" tvg-name="NewTv动作电影" tvg-logo="https://static.xxiao.org/TV/NEWTV动作电影.png" group-title="数字",NewTv动作电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1,tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="央视",CHC影迷电影
+#EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="央视",CHC影迷电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
-#EXTINF:-1,tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视",CHC动作电影
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视",CHC动作电影
 http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
-#EXTINF:-1,tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视",CHC家庭影院
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视",CHC家庭影院
 http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://static.xxiao.org/TV/CCTV1.png" group-title="央视",CCTV-1 综合
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
