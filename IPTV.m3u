@@ -171,14 +171,14 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://static.xxiao.org/TV/NHKWorld.png" group-title="Global️",NHKWORLD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1,tvg-id="EdgeSport" tvg-name="EdgeSport" tvg-logo="https://static.xxiao.org/TV/NHKWorld.png" group-title="Global️",EdgeSport
+#EXTINF:-1,tvg-id="EdgeSport" tvg-name="EdgeSport" tvg-logo="https://static.xxiao.org/TV/edgesport.png" group-title="Global️",EdgeSport
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,tvg-id="CNA" tvg-name="CNA" tvg-logo="https://static.xxiao.org/TV/ChannelAsia.png" group-title="Global",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1,tvg-id="AlJazeera" tvg-name="AlJazeera" tvg-logo="https://static.xxiao.org/TV/AlJazeera.png" group-title="Global",AlJazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1,tvg-id="RTNews" tvg-name="RT News" tvg-logo="https://static.xxiao.org/TV/RTNews.png" group-title="Global",RT News
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1,tvg-id="精彩综艺" tvg-name="精彩综艺" tvg-logo="https://static.xxiao.org/TV/精彩综艺.png" group-title="影视",精彩综艺
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://static.xxiao.org/TV/精彩影视.png" group-title="影视",精彩影视
