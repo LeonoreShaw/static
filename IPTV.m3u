@@ -8,7 +8,7 @@ https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://static.xxiao.org/TV/cnn.png" group-title="Global️",CNN
 https://jmp2.uk/SamsungTVPlus/ATBD800001VA.m3u8
-#EXTINF:-1,tvg-id="News 12 New York" tvg-name="News 12 New York" tvg-logo="https://static.xxiao.org/TV/news12.png",News 12 New York
+#EXTINF:-1,tvg-id="News 12 New York" tvg-name="News 12 New York" tvg-logo="https://gh.xxiao.org/https://raw.githubusercontent.com/LeonoreShaw/static/main/TV/news12.png",News 12 New York
 https://lnc-news12.tubi.video/index.m3u8
 #EXTINF:-1,tvg-id="NBCNewsNOW" tvg-name="NBCNewsNOW" tvg-logo="https://static.xxiao.org/TV/CNBC.png" group-title="Global️",NBC News NOW
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_nbcnewsnow_001.m3u8
