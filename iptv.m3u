@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://live.fanmingming.com/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" x-tvg-url="https://gh.xxiao.org/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml,https://gh.xxiao.org/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz,http://epg.it999.ru/epg.xml.gz"  catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" 
 #EXTINF:-1,tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://static.xxiao.org/TV/LoveNature.png" group-title="4K",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1,tvg-id="BesTV4K" tvg-name="BesTV4K" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="4K" ,BesTV 4K
+http://www.17888.fun:10000/udp/239.45.3.107:5140
 #EXTINF:-1,tvg-id="苏州" tvg-name="苏州" tvg-logo="https://static.xxiao.org/TV/suzhou4k.png" group-title="4K",苏州 4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1,tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K
