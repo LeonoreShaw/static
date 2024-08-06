@@ -5,18 +5,22 @@ http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_de
 https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1,tvg-id="RedBullTV" tvg-name="RedBullTV" tvg-logo="https://static.xxiao.org/TV/RedBull.png" group-title="Global️",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1,tvg-id="CNA" tvg-name="CNA" tvg-logo="https://static.xxiao.org/TV/ChannelAsia.png" group-title="Global",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1,tvg-id="AlJazeera" tvg-name="AlJazeera" tvg-logo="https://static.xxiao.org/TV/AlJazeera.png" group-title="Global",AlJazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1,tvg-id="CBCNewsExplore" tvg-name="CBC News Explore" tvg-logo="https://static.xxiao.org/TV/cbcnews.png" group-title="Global",CBC News
+https://jmp2.uk/SamsungTVPlus/USBA370000104.m3u8
 #EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://static.xxiao.org/TV/cnn.png" group-title="Global️",CNN
 https://jmp2.uk/SamsungTVPlus/ATBD800001VA.m3u8
 #EXTINF:-1,tvg-id="News 12 New York" tvg-name="News 12 New York" tvg-logo="https://static.xxiao.org/TV/news12.png",News 12 New York
 https://lnc-news12.tubi.video/index.m3u8
 #EXTINF:-1,tvg-id="NBCNewsNOW" tvg-name="NBCNewsNOW" tvg-logo="https://static.xxiao.org/TV/CNBC.png" group-title="Global️",NBC News NOW
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_nbcnewsnow_001.m3u8
-#EXTINF:-1,tvg-id="CBCNewsExplore" tvg-name="CBC News Explore" tvg-logo="https://static.xxiao.org/TV/cbcnews.png" group-title="Global",CBC News
-https://jmp2.uk/SamsungTVPlus/USBA370000104.m3u8
-#EXTINF:-1,tvg-id="GB News" tvg-name="GB News" tvg-logo="https://static.xxiao.org/TV/gbnews.png" group-title="Global️",GB News
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,tvg-id="Sky News Australia" tvg-name="Sky News Australia" tvg-logo="https://static.xxiao.org/TV/SkyNewsAustralia.png",Sky News Australia
 https://i.mjh.nz/sky-news-now.m3u8
+#EXTINF:-1,tvg-id="GB News" tvg-name="GB News" tvg-logo="https://static.xxiao.org/TV/gbnews.png" group-title="Global️",GB News
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://static.xxiao.org/TV/skynews.png",Sky News
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8
 #EXTINF:-1,tvg-id="BBC News" tvg-name="BBC NEWS" tvg-logo="https://static.xxiao.org/TV/bbcnews.png",BBC News
@@ -29,14 +33,14 @@ http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 http://www.17888.fun:10000/rtp/239.45.1.10:5140
 #EXTINF:-1 tvg-id="百事通儿童4K" tvg-name="百事通儿童4K" tvg-logo="https://static.xxiao.org/TV/bestv.png" group-title="4K" ,百事通儿童 4K
 http://www.17888.fun:10000/rtp/239.45.1.1:5140
-#EXTINF:-1,tvg-id="百事通电影4K" tvg-name="百事通电影4K" tvg-logo="https://static.xxiao.org/TV/bestv.png" group-title="4K" ,百事通电影 4K
-http://www.17888.fun:10000/rtp/239.45.1.42:5140
 #EXTINF:-1,tvg-id="纯享4k" tvg-name="纯享4k" tvg-logo="https://static.xxiao.org/TV/纯享4k.png" group-title="4K",纯享 4K
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 #EXTINF:-1,tvg-id="CCTV164K" tvg-name="CCTV164K" tvg-logo="https://static.xxiao.org/TV/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 4K
 http://[2409:8087:5e08:24::12]:6610/000000001001/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://static.xxiao.org/TV/CCTV4K.png" group-title="央视",CCTV-4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1,tvg-id="百事通电影4K" tvg-name="百事通电影4K" tvg-logo="https://static.xxiao.org/TV/bestv.png" group-title="4K" ,百事通电影 4K
+http://www.17888.fun:10000/rtp/239.45.1.42:5140
 #EXTINF:-1,tvg-id="BesTV全球大片" tvg-name="BesTV全球大片" tvg-logo="https://static.xxiao.org/TV/bestv.png",BesTV全球大片
 http://118.122.2.29:9999/hls/60/index.m3u8
 #EXTINF:-1,tvg-id="NewTv明星大片" tvg-name="NewTv明星大片" tvg-logo="https://static.xxiao.org/TV/NEWTV明星大片.png" group-title="数字",NewTv明星大片
@@ -193,10 +197,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1,tvg-id="EdgeSport" tvg-name="EdgeSport" tvg-logo="https://static.xxiao.org/TV/edgesport.png" group-title="Global️",EdgeSport
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1,tvg-id="CNA" tvg-name="CNA" tvg-logo="https://static.xxiao.org/TV/ChannelAsia.png" group-title="Global",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1,tvg-id="AlJazeera" tvg-name="AlJazeera" tvg-logo="https://static.xxiao.org/TV/AlJazeera.png" group-title="Global",AlJazeera
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1,tvg-id="RTNews" tvg-name="RT News" tvg-logo="https://static.xxiao.org/TV/RTNews.png" group-title="Global",RT News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1,tvg-id="精彩综艺" tvg-name="精彩综艺" tvg-logo="https://static.xxiao.org/TV/精彩综艺.png" group-title="影视",精彩综艺
