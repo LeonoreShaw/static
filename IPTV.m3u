@@ -9,21 +9,21 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1,tvg-id="AlJazeera" tvg-name="AlJazeera" tvg-logo="https://static.xxiao.org/TV/AlJazeera.png" group-title="Global",AlJazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1,tvg-id="CBCNewsExplore" tvg-name="CBC News Explore" tvg-logo="https://static.xxiao.org/TV/cbcnews.png" group-title="Global",CBC News
+#EXTINF:-1,tvg-id="CBSNews" tvg-name="CBSNews" tvg-logo="https://static.xxiao.org/TV/cbsnews.png" group-title="Global",CBS News
 https://jmp2.uk/SamsungTVPlus/USBA370000104.m3u8
 #EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://static.xxiao.org/TV/cnn.png" group-title="Global️",CNN
 https://jmp2.uk/SamsungTVPlus/ATBD800001VA.m3u8
-#EXTINF:-1,tvg-id="News 12 New York" tvg-name="News 12 New York" tvg-logo="https://static.xxiao.org/TV/news12.png",News 12 New York
+#EXTINF:-1,tvg-id="News 12 New York" tvg-name="News 12 New York" tvg-logo="https://static.xxiao.org/TV/news12.png" group-title="Global",News 12 New York
 https://lnc-news12.tubi.video/index.m3u8
 #EXTINF:-1,tvg-id="NBCNewsNOW" tvg-name="NBCNewsNOW" tvg-logo="https://static.xxiao.org/TV/CNBC.png" group-title="Global️",NBC News NOW
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_nbcnewsnow_001.m3u8
-#EXTINF:-1,tvg-id="Sky News Australia" tvg-name="Sky News Australia" tvg-logo="https://static.xxiao.org/TV/SkyNewsAustralia.png",Sky News Australia
+#EXTINF:-1,tvg-id="Sky News Australia" tvg-name="Sky News Australia" tvg-logo="https://static.xxiao.org/TV/SkyNewsAustralia.png" group-title="Global",Sky News Australia
 https://i.mjh.nz/sky-news-now.m3u8
 #EXTINF:-1,tvg-id="GB News" tvg-name="GB News" tvg-logo="https://static.xxiao.org/TV/gbnews.png" group-title="Global️",GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://static.xxiao.org/TV/skynews.png",Sky News
+#EXTINF:-1,tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://static.xxiao.org/TV/skynews.png" group-title="Global",Sky News
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8
-#EXTINF:-1,tvg-id="BBC News" tvg-name="BBC NEWS" tvg-logo="https://static.xxiao.org/TV/bbcnews.png",BBC News
+#EXTINF:-1,tvg-id="BBC News" tvg-name="BBC NEWS" tvg-logo="https://static.xxiao.org/TV/bbcnews.png" group-title="Global",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1,tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://static.xxiao.org/TV/LoveNature.png" group-title="4K",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -41,7 +41,7 @@ http://[2409:8087:5e08:24::12]:6610/000000001001/5000000008000023254/1.m3u8?chan
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1,tvg-id="百事通电影4K" tvg-name="百事通电影4K" tvg-logo="https://static.xxiao.org/TV/bestv.png" group-title="4K" ,百事通电影 4K
 http://www.17888.fun:10000/rtp/239.45.1.42:5140
-#EXTINF:-1,tvg-id="BesTV全球大片" tvg-name="BesTV全球大片" tvg-logo="https://static.xxiao.org/TV/bestv.png",BesTV全球大片
+#EXTINF:-1,tvg-id="BesTV全球大片" tvg-name="BesTV全球大片" tvg-logo="https://static.xxiao.org/TV/bestv.png" group-title="数字",BesTV全球大片
 http://118.122.2.29:9999/hls/60/index.m3u8
 #EXTINF:-1,tvg-id="NewTv明星大片" tvg-name="NewTv明星大片" tvg-logo="https://static.xxiao.org/TV/NEWTV明星大片.png" group-title="数字",NewTv明星大片
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
@@ -51,7 +51,7 @@ http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1,tvg-id="NewTv动作电影" tvg-name="NewTv动作电影" tvg-logo="https://static.xxiao.org/TV/NEWTV动作电影.png" group-title="数字",NewTv动作电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1,tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://static.xxiao.org/TV/北京IPTV淘电影.png" group-title="4K&IPTV",北京IPTV淘电影
+#EXTINF:-1,tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://static.xxiao.org/TV/北京IPTV淘电影.png" group-title="数字",北京IPTV淘电影
 http://www.weec.top:2222/rtp/239.3.1.250:8001
 #EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://static.xxiao.org/TV/CHC影迷电影.png" group-title="央视",CHC影迷电影
 http://demo1.ruisilink.top:9000/udp/239.76.252.242:9000
