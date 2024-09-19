@@ -52,11 +52,11 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1,tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://static.xxiao.org/TV/北京IPTV淘电影.png" group-title="数字",北京IPTV淘电影
 http://www.weec.top:2222/rtp/239.3.1.250:8001
 #EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://static.xxiao.org/TV/CHC影迷电影.png" group-title="央视",CHC影迷电影
-http://demo1.ruisilink.top:9000/udp/239.76.252.242:9000
+http://czkeji.vip:9000/rtp/239.252.219.83:5140$江西cmc1+
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://static.xxiao.org/TV/CHC动作电影.png" group-title="央视",CHC动作电影
-http://demo1.ruisilink.top:9000/udp/239.76.245.243:1234
+http://czkeji.vip:9000/rtp/239.252.219.85:5140$江西cmc1+
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://static.xxiao.org/TV/CHC家庭影院.png" group-title="央视",CHC家庭影院
-http://demo1.ruisilink.top:9000/udp/239.76.252.241:9000
+http://czkeji.vip:9000/rtp/239.252.219.84:5140$江西cmc1+
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://static.xxiao.org/TV/CCTV1.png" group-title="央视",CCTV-1 综合
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://static.xxiao.org/TV/CCTV2.png" group-title="央视",CCTV-2 财经
