@@ -45,6 +45,8 @@ http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.250:8001
 http://118.122.2.29:9999/hls/60/index.m3u8
 #EXTINF:-1,tvg-id="明星大片" tvg-name="NewTv明星大片" tvg-logo="https://static.xxiao.org/TV/NEWTV明星大片.png" group-title="数字",NewTv明星大片
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1,tvg-id="中国功夫" tvg-name="中国功夫" tvg-logo="https://static.xxiao.org/TV/NEWTV黑莓电影.png" group-title="数字",中国功夫
+http://39.134.65.164/PLTV/88888888/224/3221225604/1.m3u8
 #EXTINF:-1,tvg-id="黑莓电影" tvg-name="NewTv黑莓电影" tvg-logo="https://static.xxiao.org/TV/NEWTV黑莓电影.png" group-title="数字",NewTv黑莓电影
 http://39.134.65.179/PLTV/88888888/224/3221225681/1.m3u8
 #EXTINF:-1,tvg-id="超级电影" tvg-name="NewTv超级电影" tvg-logo="https://static.xxiao.org/TV/NEWTV超级电影.png" group-title="数字",NewTv超级电影
