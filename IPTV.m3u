@@ -63,7 +63,7 @@ http://39.134.65.179/PLTV/88888888/224/3221225681/1.m3u8
 http://111.29.9.46:6610/000000001000/1000000003000012426/index.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="动作电影" tvg-name="NewTv动作电影" tvg-logo="https://static.xxiao.org/TV/NEWTV动作电影.png" group-title="数字",NewTv动作电影
 http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8
-#EXTINF:-1,tvg-id="1905电影网" tvg-name="1905电影网" tvg-logo="https://static.xxiao.org/TV/NEWTV动作电影.png" group-title="数字",1905电影网
+#EXTINF:-1,tvg-id="1905电影网" tvg-name="1905电影网" tvg-logo="https://static.xxiao.org/TV/1905.png" group-title="数字",1905电影网
 http://php.jdshipin.com:8880/1905.php?id=1905dy
 #EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://static.xxiao.org/TV/CHC影迷电影.png" group-title="央视",CHC影迷电影
 http://dassby.qqff.top:99/live/CHC高清/index.m3u8
