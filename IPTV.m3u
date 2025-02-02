@@ -201,8 +201,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002827/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002883/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="CGTNEspañol" tvg-name="CGTN Español" tvg-logo="https://static.xxiao.org/TV/CGTNxbyy.png" group-title="Global",CGTN Español
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1,tvg-id="CGTNالعربية" tvg-name="CGTN العربية" tvg-logo="https://static.xxiao.org/TV/CGTNalby.png" group-title="Global",CGTN العربية
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://static.xxiao.org/TV/NHKWorld.png" group-title="Global️",NHKWORLD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1,tvg-id="EdgeSport" tvg-name="EdgeSport" tvg-logo="https://static.xxiao.org/TV/edgesport.png" group-title="Global️",EdgeSport
