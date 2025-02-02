@@ -2,7 +2,7 @@
 #EXTINF:-1,tvg-id="Fashiontv" tvg-name="Fashion" tvg-logo="https://static.xxiao.org/TV/fashiontv.png" group-title="4K",Fashion TV 4K
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 #EXTINF:-1,tvg-id="BloombergTV" tvg-name="Bloomberg" tvg-logo="https://static.xxiao.org/TV/bloomberg.png" group-title="4K",BloombergTV 4K
-https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,tvg-id="RedBullTV" tvg-name="RedBullTV" tvg-logo="https://static.xxiao.org/TV/RedBull.png" group-title="Global️",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1,tvg-id="CNA" tvg-name="CNA" tvg-logo="https://static.xxiao.org/TV/ChannelAsia.png" group-title="Global",CNA
@@ -42,11 +42,17 @@ http://118.122.2.29:9999/hls/60/index.m3u8
 #EXTINF:-1,tvg-id="明星大片" tvg-name="NewTv明星大片" tvg-logo="https://static.xxiao.org/TV/NEWTV明星大片.png" group-title="数字",NewTv明星大片
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 #EXTINF:-1,tvg-id="纯享4k" tvg-name="纯享4k" tvg-logo="https://static.xxiao.org/TV/纯享4k.png" group-title="4K",纯享 4K
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV164K" tvg-logo="https://static.xxiao.org/TV/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 4K
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226236/2/index.m3u8
+#EXTINF:-1,tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://static.xxiao.org/TV/movie.png" group-title="数字",CinemaWorld
+http://37.27.111.214:8080/live/30/hls.m3u8
 #EXTINF:-1,tvg-id="AMC电影台" tvg-name="AMC电影台" tvg-logo="https://static.xxiao.org/TV/movie.png" group-title="数字",AMC电影台
 http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://static.xxiao.org/TV/movie.png" group-title="数字",HBO
+http://50.7.234.10:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
+#EXTINF:-1,tvg-id="好莱坞电影" tvg-name="好莱坞电影" tvg-logo="https://static.xxiao.org/TV/movie.png" group-title="数字",好莱坞电影
+http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 #EXTINF:-1,tvg-id="畅享影院" tvg-name="畅享影院" tvg-logo="https://static.xxiao.org/TV/movie.png" group-title="数字",畅享影院
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226300/2/index.m3u8
 #EXTINF:-1,tvg-id="惊悚悬疑" tvg-name="NewTv惊悚悬疑" tvg-logo="https://static.xxiao.org/TV/NEWTV明星大片.png" group-title="数字",NewTv惊悚悬疑
