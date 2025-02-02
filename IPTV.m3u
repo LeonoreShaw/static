@@ -209,10 +209,6 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,tvg-id="RTNews" tvg-name="RT News" tvg-logo="https://static.xxiao.org/TV/RTNews.png" group-title="Global",RT News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1,tvg-id="精彩综艺" tvg-name="精彩综艺" tvg-logo="https://static.xxiao.org/TV/精彩综艺.png" group-title="影视",精彩综艺
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1,tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://static.xxiao.org/TV/精彩影视.png" group-title="影视",精彩影视
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="超级电视剧" tvg-name="超级电视剧" tvg-logo="https://static.xxiao.org/TV/NEWTV超级电视剧.png" group-title="数字",NewTv超级电视剧
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 #EXTINF:-1,tvg-id="超级体育" tvg-name="超级体育" tvg-logo="https://static.xxiao.org/TV/NEWTV超级体育.png" group-title="数字",NewTv超级体育
